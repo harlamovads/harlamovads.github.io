@@ -11,7 +11,7 @@
 # Команда проекта
 1. Я
 2. Алиса WEye (more like WHYYYY though)
-3. АЛЕНААААААААААААААААА
+3. АЛЕНА
 4. Неимоверное количество удачи (да, тоже команда)
 
 # Следите за нашим прогрессом!
@@ -21,4 +21,4 @@
 
 Хм, довольно легенькая штука, которая выглядит как прикольная альтернатива html. why are we still using it once again?
 
-he's gay or european HE'S GAAAAAAY or (and) european!!!!!
+# he's gay or european HE'S GAAAAAAY or (and) european!!!!!
